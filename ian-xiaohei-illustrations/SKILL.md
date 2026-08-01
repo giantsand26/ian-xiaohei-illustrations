@@ -1,6 +1,6 @@
 ---
 name: ian-xiaohei-illustrations
-description: 生成 Ian 风格的中文正文配图。用于用户要求为中文文章、帖子、博客、Notion 文档、工作流文档、方法论、流程、结构、状态、隐喻或观点生成“怪诞”“小黑”“手绘”“正文配图”“文章插图”“配图建议”“shot list”“去标题/改图”等任务；默认使用小黑 IP、纯白手绘、少量红橙蓝批注、简洁清爽但天马行空的视觉风格。
+description: 生成 Ian 小黑 IP 风格的中文正文配图。在用户明确说“小黑”、“Ian 小黑”或指定 $ian-xiaohei-illustrations 时使用；适用于为中文文章、帖子、博客、Notion 文档、工作流、方法论、流程、结构、状态、隐喻或观点生成怪诞手绘正文配图、插图建议或 shot list。不要在用户明确说“小黑猫”或“Catty”时触发；那属于 $catty-xiaohei-cat-illustrations。
 ---
 
 # Ian 小黑怪诞正文配图
